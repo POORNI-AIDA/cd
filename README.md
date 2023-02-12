@@ -1,17 +1,4 @@
-For this assessment, you will have to build a REST API Ticketing System. The logic of
-the system is described below:
-When a new ticket comes in, the system is expected to assign the incoming ticket to a
-person based on the Round Robin Principle.You can either use Python Flask or Nodejs for the development.
-Create a sample static data of 5 people with the following attributes and store them
-locally,
-1. A unique ID (use consecutive numbers. eg ‘#1’, ‘#2’ and so on)
-2. Name
-3. List of tickets assigned to them
-A ticket should contain the following attributes,
-1. A unique ID
-2. Issue description
-3. Assigned to (user ID)
-4. Raised by (user ID)
+#### Backend Web Development #### 
 
 
 import json
